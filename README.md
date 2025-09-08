@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/⬇️_Download_Baldurs_Gate_3-8B0000?style=for-the-badge&logo=apple&logoColor=white" alt="Download Baldur's Gate 3">
 </a>
 </div>
----
+
 
 ## Unravel the Mysteries of the Forgotten Realms
 
